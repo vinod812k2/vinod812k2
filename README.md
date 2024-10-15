@@ -1,4 +1,4 @@
-   Sr Software Developer with 4 years of experience in a wide range of functions including predictive modeling, content discovery, NLP, Computer Vision, Deep Learning, Data Wrangling and product analytics.
+   Sr Software Developer with 8 years of experience in a wide range of functions including predictive modeling, content discovery, NLP, Computer Vision, Deep Learning, Data Wrangling and product analytics.
 - 👋 Experience in architecting applications with Algorithms, Data Structures, Artificial Intelligence, Machine Learning, Deep Learning & Transfer Learning which include CNN, RNN with Python
 - 👀 Skilled in libraries such as Sklearn, Numpy, Pandas, Matplotlib, Seaborn, Keras, Tensorflow
 - 🌱 I’m currently learning ...
